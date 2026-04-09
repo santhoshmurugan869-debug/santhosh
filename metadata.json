@@ -1,0 +1,5 @@
+{
+  "name": "DocGen AI",
+  "description": "Intelligent technical documentation generator that analyzes code to produce API references, architecture diagrams, and usage examples.",
+  "requestFramePermissions": []
+}
